@@ -94,7 +94,6 @@
 
 <style lang="scss" scoped>
 
-
   main{
     display: flex;
     flex-direction: column;
@@ -106,6 +105,7 @@
     h1{
       margin-bottom: 16px;
       text-align: center;
+      color: #f0f0f0;
     }
 
   .todo-list {
@@ -123,6 +123,7 @@
     justify-content: center;
     gap: 8px;
     margin-top: 24px;
+    color: #f0f0f0;
   }
   }
 </style>

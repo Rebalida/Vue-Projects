@@ -53,10 +53,12 @@ h3 {
     border-bottom: 1px solid #bbb;
     padding-bottom: 10px;
     margin: 40px 0 10px;
+    color: #f0f0f0;
 }
 
 .form-control {
     margin: 10px 0;
+    border-radius: 0;
 }
 
 label {
@@ -67,7 +69,6 @@ label {
 input[type='text'],
 input[type='number'] {
     border: 1px solid #dedede;
-    border-radius: 2px;
     display: block;
     font-size: 16px;
     padding: 10px;
@@ -76,10 +77,10 @@ input[type='number'] {
 
 .btn {
     cursor: pointer;
-    background-color: #9c88ff;
-    box-shadow: var(--box-shadow);
+    background-color: #4DBA87;
     color: #fff;
     border: 0;
+    border-radius: 0;
     display: block;
     font-size: 16px;
     margin: 10px 0 30px;

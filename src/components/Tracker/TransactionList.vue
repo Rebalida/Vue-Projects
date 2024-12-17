@@ -36,6 +36,7 @@ h3 {
     border-bottom: 1px solid #bbb;
     padding-bottom: 10px;
     margin: 40px 0 10px;
+    color: #f0f0f0;
 }
 
 .list {

@@ -4,7 +4,7 @@
         <nav class="container">
             <RouterLink to="/">
                 <div class="branding">
-                <img src="../assets/Vue_Logo_Black.png" alt="">
+                <img src="../assets/vue-logo.png" alt="">
                 <h1>
                     Projects
                 </h1>
@@ -21,7 +21,7 @@
 
 <style lang="scss" scoped>
     header{
-        background-color: #f1f1f1;
+        background-color: #1c1c1c;
 
         nav{
             display: flex;
@@ -37,6 +37,7 @@
                     max-width: 70px;
                 }
                 h1{
+                    color: #f0f0f0;
                     font-size: 24px;
                 }
             }

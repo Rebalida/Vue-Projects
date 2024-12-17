@@ -22,4 +22,12 @@ import GlobalHeader from './components/GlobalHeader.vue';
     max-width: 1100px;
     margin: 0 auto;
   }
+
+  body{
+    background-color: #2c2c2c;
+    background-image: url(./assets/);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
 </style>
