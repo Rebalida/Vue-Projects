@@ -23,6 +23,16 @@
                     </RouterLink>
                 </div>
 
+                <div class="col-3">
+                    <RouterLink to="/weather" class="button button--pandora">
+                        <div class="card project-card">
+                            <div class="card-body">
+                                <h5>Weather Report</h5>
+                            </div>
+                        </div>
+                    </RouterLink>
+                </div>
+
             </div>
         </div>
     </main>

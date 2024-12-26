@@ -20,6 +20,11 @@ const router = createRouter({
       name: 'tracker',
       component: () => import('../views/TrackerView.vue'),
     },
+    {
+      path: '/weather',
+      name: 'weather',
+      component: () => import('../views/WeatherView.vue'),
+    },
   ],
 })
 
